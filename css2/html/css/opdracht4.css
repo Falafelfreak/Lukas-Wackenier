@@ -1,0 +1,17 @@
+body {
+    font-family: 'Verdana',sans-serif;
+    color: darkblue;
+    background: silver;
+}
+
+h1 {
+    font-variant: small-caps;
+    background: red;
+}
+
+a:hover {
+    padding: 3px;
+    border: 3px;
+    background: white;
+}
+
